@@ -24,6 +24,7 @@
         <module>notification-service</module>
         <module>offer-service</module>
         <module>service-registry</module>
+        <module>ai-service</module>
     </modules>
 
     <properties>
