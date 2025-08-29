@@ -8,7 +8,7 @@ import java.util.Map;
 
 @CrossOrigin(origins = "http://localhost:3000")
 @RestController
-@RequestMapping("/gemini")
+@RequestMapping("/api/chat")
 public class GeminiController {
 
     private final GeminiService geminiService;
